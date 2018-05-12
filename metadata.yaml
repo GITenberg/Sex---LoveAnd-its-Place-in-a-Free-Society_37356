@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/657
     wikipedia: http://en.wikipedia.org/wiki/Edward_Carpenter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37356#Sex---LoveAnd-its-Place-in-a-Free-Society
 gutenberg_issued: '2013-03-16'
 gutenberg_type: Text
 identifiers:
